@@ -171,7 +171,8 @@ Ed25519 + RFC 9421 签名扩展提案 · Agent 间通信身份合规
 | 渠道 | 链接 |
 |------|------|
 | 📧 邮箱 | [411947628@qq.com](mailto:411947628@qq.com) |
-| 💬 微信 | 请通过邮箱预约，注明来意 |
+| 💬 微信 | zedalawyerzhangzeyu（注明来意）|
+| 📞 电话 | 18158528392 |
 | 💼 领英 | [linkedin.com/in/lawcontinue](https://linkedin.com/in/lawcontinue) |
 | 📝 公众号 | AI 合规法务工程师 |
 
